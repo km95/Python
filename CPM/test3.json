@@ -1,0 +1,54 @@
+{
+    "CostNodes": [
+		{
+			"cost" : 19.5,
+			"start" : 1,
+			"stop" : 2
+		},
+		{
+			"cost" : 14,
+			"start" : 1,
+			"stop" : 3
+		},
+		{
+			"cost" : 6,
+			"start" : 1,
+			"stop" : 4
+		},
+		{
+			"cost" : 9,
+			"start" : 2,
+			"stop" : 5
+		},
+		{
+			"cost" : 19,
+			"start" : 3,
+			"stop" : 6
+		},
+		{
+			"cost" : 15,
+			"start" : 3,
+			"stop" : 7
+		},
+		{
+			"cost" : 6,
+			"start" : 4,
+			"stop" : 7
+		},
+		{
+			"cost" : 21,
+			"start" : 5,
+			"stop" : 8
+		},
+		{
+			"cost" : 16,
+			"start" : 6,
+			"stop" : 8
+		},
+		{
+			"cost" : 21,
+			"start" : 7,
+			"stop" : 8
+		}
+	] 
+}

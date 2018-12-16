@@ -1,0 +1,119 @@
+{
+    "CostNodes": [
+		{
+			"cost" : 25,
+			"start" : 1,
+			"stop" : 2
+		},
+		{
+			"cost" : 30,
+			"start" : 1,
+			"stop" : 3
+		},
+		{
+			"cost" : 50,
+			"start" : 1,
+			"stop" : 7
+		},
+		{
+			"cost" : 13,
+			"start" : 2,
+			"stop" : 4
+		},
+		{
+			"cost" : 12,
+			"start" : 2,
+			"stop" : 5
+		},
+		{
+			"cost" : 19,
+			"start" : 3,
+			"stop" : 6
+		},
+		{
+			"cost" : 18,
+			"start" : 3,
+			"stop" : 8
+		},
+		{
+			"cost" : 6,
+			"start" : 4,
+			"stop" : 5
+		},
+		{
+			"cost" : 8,
+			"start" : 4,
+			"stop" : 12
+		},
+		{
+			"cost" : 15,
+			"start" : 5,
+			"stop" : 9
+		},
+		{
+			"cost" : 6,
+			"start" : 6,
+			"stop" : 7
+		},
+		{
+			"cost" : 27,
+			"start" : 6,
+			"stop" : 10
+		},
+		{
+			"cost" : 19,
+			"start" : 6,
+			"stop" : 11
+		},
+		{
+			"cost" : 20,
+			"start" : 7,
+			"stop" : 9
+		},
+		{
+			"cost" : 30,
+			"start" : 7,
+			"stop" : 10
+		},
+		{
+			"cost" : 20,
+			"start" : 8,
+			"stop" : 11
+		},
+		{
+			"cost" : 20,
+			"start" : 9,
+			"stop" : 12
+		},
+		{
+			"cost" : 40,
+			"start" : 10,
+			"stop" : 14
+		},
+		{
+			"cost" : 6,
+			"start" : 11,
+			"stop" : 14
+		},
+		{
+			"cost" : 10,
+			"start" : 12,
+			"stop" : 13
+		},
+		{
+			"cost" : 80,
+			"start" : 12,
+			"stop" : 15
+		},
+		{
+			"cost" : 12,
+			"start" : 13,
+			"stop" : 14
+		},
+		{
+			"cost" : 50,
+			"start" : 14,
+			"stop" : 15
+		}
+	] 
+}

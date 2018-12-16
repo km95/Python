@@ -1,0 +1,24 @@
+{
+    "CostNodes": [
+		{
+			"cost" : 4,
+			"start" : 1,
+			"stop" : 2
+		},
+		{
+			"cost" : 6,
+			"start" : 1,
+			"stop" : 3
+		},
+		{
+			"cost" : 6,
+			"start" : 3,
+			"stop" : 2
+		},
+		{
+			"cost" : 3,
+			"start" : 2,
+			"stop" : 4
+		}
+	] 
+}
